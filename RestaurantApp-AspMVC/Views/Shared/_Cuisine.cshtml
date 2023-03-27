@@ -1,0 +1,25 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model List<Models.Cuisine>
+@*@model RestaurantApp_AspMVC.Models.c;*@
+
+<dl class="row">
+    @foreach (var cuisine in Model)
+    {
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => cuisine.Id)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => cuisine.Name)
+        </dd>
+
+         <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => cuisine)
+         </dt>
+       
+    }
+</dl>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C8qGcp+MKf3tB3LUn0vezXPBB+5/I4kOk40NcZncmzA=",
+  "Source": "RestaurantAppWebAPI",
+  "BasePath": "_content/RestaurantAppWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

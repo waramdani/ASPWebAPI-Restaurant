@@ -1,0 +1,12 @@
+C:\Users\waramdani\source\repos\RestaurantApp-AspMVC\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\waramdani\source\repos\RestaurantApp-AspMVC\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waramdani\source\repos\RestaurantApp-AspMVC\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\waramdani\source\repos\RestaurantApp-AspMVC\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\waramdani\source\repos\RestaurantApp-AspMVC\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\waramdani\source\repos\RestaurantApp-AspMVC\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+C:\Users\waramdani\source\repos\RestaurantApp-AspMVC\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\waramdani\source\repos\RestaurantApp-AspMVC\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\waramdani\source\repos\RestaurantApp-AspMVC\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+C:\Users\waramdani\source\repos\RestaurantApp-AspMVC\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+C:\Users\waramdani\source\repos\RestaurantApp-AspMVC\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\waramdani\source\repos\RestaurantApp-AspMVC\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
